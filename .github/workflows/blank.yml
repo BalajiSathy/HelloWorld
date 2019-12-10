@@ -1,4 +1,6 @@
 name: CI
+env:test
+readme.txt sample text
 
 on: [push]
 
